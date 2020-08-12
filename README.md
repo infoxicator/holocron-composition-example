@@ -6,7 +6,7 @@ This example shows the usage of module composition with holocron rendering 3 mod
 
 ### Quick Start:
 
-Requires Docker Destkop installed
+[Requires Docker Desktop installed](https://docs.docker.com/get-docker/)
 
 ```bash
 cd holocron-root
